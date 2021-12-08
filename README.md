@@ -19,5 +19,3 @@
 > - **Software engineering**
 
 > - **Some other langs too!**
-
---Gonna be posting after i get better at py, and get some time to do stuff!--
