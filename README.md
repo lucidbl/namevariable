@@ -4,7 +4,7 @@
 
 # Languages:
 
-> - **Python (Beginner)** [py](https://logosrated.net/wp-content/uploads/parser/Python-Logo-1.png)
+> - **Python (Beginner)**
 
 > - **HTML (2learn)**
 
