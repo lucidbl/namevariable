@@ -1,23 +1,23 @@
-OS:
+# **OS:**
 
-Windows
+> - Win10
 
-(had Arch on VM but PC died)
+# Languages:
 
+> - **Python (Beginner)**
 
-Languages:
+> - **HTML (2learn)**
 
-**Python (Beginner)**
-HTML (2learn)
-CSS (2learn)
-JS (2learn)
+> - **CSS (2learn)**
 
-Want to learn:
+> - **JS (2learn)**
 
-**Web developing**
+# Want to learn:
 
-**Software engineering**
+> - **Web developing**
 
-**Some other langs too!**
+> - **Software engineering**
+
+> - **Some other langs too!**
 
 --Gonna be posting after i get better at py, and get some time to do stuff!--
