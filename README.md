@@ -4,18 +4,18 @@
 
 # Languages:
 
-> - **Python (Beginner)**
+> - **Python **
 
-> - **HTML (2learn)**
+> - **HTML **
 
-> - **CSS (2learn)**
+> - **CSS **
 
-> - **JS (2learn)**
+> - **JS **
 
-# Want to learn:
 
-> - **Web developing**
 
-> - **Software engineering**
 
-> - **Some other langs too!**
+
+
+
+no gud github me skid
