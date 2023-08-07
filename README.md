@@ -1,6 +1,7 @@
 # **OS:**
 
 > - Win10
+> - Arch Linux
 
 # Languages:
 
